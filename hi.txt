@@ -3,7 +3,10 @@ Hello world
 Hello Dojo
 
 
+<title>
 
    (^_^)
     \|/
      /\
+
+ </title>
